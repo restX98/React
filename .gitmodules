@@ -1,0 +1,3 @@
+[submodule "basic-react-project"]
+	path = basic-react-project
+	url = git@github.com:restX98/basic-react-project.git

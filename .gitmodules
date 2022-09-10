@@ -1,3 +1,6 @@
 [submodule "basic-react-project"]
 	path = basic-react-project
 	url = git@github.com:restX98/basic-react-project.git
+[submodule "airbnb-clone"]
+	path = airbnb-clone
+	url = git@github.com:restX98/airbnb-clone.git

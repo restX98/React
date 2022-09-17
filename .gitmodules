@@ -7,3 +7,6 @@
 [submodule "react-meme-generator"]
 	path = react-meme-generator
 	url = git@github.com:restX98/react-meme-generator.git
+[submodule "react-tenzies-game"]
+	path = react-tenzies-game
+	url = git@github.com:restX98/react-tenzies-game.git
